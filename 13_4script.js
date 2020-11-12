@@ -45,6 +45,7 @@ function processMouseMove( e )
    } // end if
 } // end function processMouseMove
 
+//after hitting erase button, drawing no longer works
 function erase()
 {
     var table = document.getElementsByTagName('table');
